@@ -28,7 +28,10 @@ A rather simple Project to monitor soil mostore lvls for my plant. It provied le
 
 ## CAD
 
-Nothing here yet
+TinkerCAD Design
+
+<img width="537" height="529" alt="Screenshot 2026-10-14 193941" src="https://github.com/user-attachments/assets/45371ee5-2d92-42fb-ae8e-b416ca9486f3" />
+
 
 ## Extras
 
