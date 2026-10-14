@@ -1,1 +1,8 @@
-
+Item,Component,Quantity,Pin / Notes
+1,Arduino Uno (or Nano / compatible),1,Microcontroller board
+2,Capacitive Soil Moisture Sensor v1.2,1,VCC->5V, GND->GND, AOUT->A0
+3,LED (Red / Dry Warning),1,Digital Pin 12 (via resistor)
+4,LED (Green / Optimal Status),1,Digital Pin 8 (via resistor)
+5,Resistor 220Ω,2,Current limiting for LEDs
+6,Breadboard & Jumper Wires,1set,For circuit assembly
+7,USB Cable (Type A to B / Mini),1,For programming and power
