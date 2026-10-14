@@ -28,14 +28,17 @@ A rather simple Project to monitor soil mostore lvls for my plant. It provied le
 
 ## CAD
 
+Nothing here yet
+
 ## Extras
+
+Credits: My friend gave me the idea.
 
 ## Bonus
 
 The first Idea Schematics
 
 <img width="747" height="362" alt="Screenshot 2026-10-12 150812" src="https://github.com/user-attachments/assets/555af22b-1b8e-4f06-9ac2-6fa4b31b36c7" />
-
 
 
 <img width="623" height="397" alt="Screenshot 2026-10-14 161455" src="https://github.com/user-attachments/assets/3c53d564-4569-4622-874a-950d6b787591" />
