@@ -34,7 +34,7 @@ TinkerCAD Design
 
 Case Design
 
-<img width="356" height="592" alt="Screenshot 2026-10-15 155039" src="https://github.com/user-attachments/assets/e0498742-00aa-4c39-9236-cba9c7fd9228" />
+<img width="400" height="592" alt="Screenshot 2026-10-15 155039" src="https://github.com/user-attachments/assets/e0498742-00aa-4c39-9236-cba9c7fd9228" />
 
 ## Extras
 
